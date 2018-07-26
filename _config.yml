@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Aengus Bridgman"
+name                     : &name "About"
 description              : &description "personal description"
 url                      : https://aengusb.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
