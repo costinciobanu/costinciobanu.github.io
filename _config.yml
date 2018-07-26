@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aengus Bridgman"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Aengus Bridgman"
 description              : &description "personal description"
