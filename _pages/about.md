@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Welcome to my personal website. I am a PhD Canadidate at McGill University.
+
+This web page is currently under construction.
