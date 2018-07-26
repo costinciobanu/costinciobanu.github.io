@@ -7,4 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-This is where presentations will go. The McGill Bootcamp 2018 presentation is available [here]: https://aengusb.github.io/github_bootcamp/#/ .
+This is where presentations will go. 
+
+For the bootcamp slides click <a href="https://aengusb.github.io/github_bootcamp/#">here</a>.
