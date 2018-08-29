@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This is where my CV will go.
+Website currently under construction.

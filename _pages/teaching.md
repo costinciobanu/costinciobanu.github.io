@@ -9,20 +9,18 @@ author_profile: true
 
 I enjoy teaching. 
 
+For the presentation for the McGill 2018 Bootcamp click <a href="https://aengusb.github.io/github_bootcamp/#">here</a>.
+
 Courses I have given include:
 
 * Introduction to LaTex and Zotero (Winter 2018)
 * Introduction to replicable research using version control (Summer 2018) 
 
-For the presentation for the McGill 2018 Bootcamp click <a href="https://aengusb.github.io/github_bootcamp/#">here</a>.
-
-I am the teaching assistant for the graduate political science quantitative methods course at McGill taught by Professor Aaron Erlich.
-
 Courses I have assisted with include: 
 
-* Population Data Visualization workshop (Fall 2018)
-* Techniques of Empirical Research (Graduate)
-* R Bootcamp (Summer 2017)
+* Techniques of Empirical Research (Fall 2017 and 2018)
+* R Bootcamp (Summer 2017 and 2018)
+* Population Data Visualization workshop (Fall 2017)
 * Politics of the Developed World (Winter 2017)
 * Local Government (Fall 2017)
 * Budgetary Politics and Public Finance (Summer 2012)
