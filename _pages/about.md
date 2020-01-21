@@ -13,4 +13,4 @@ I am currently a research fellow at the Center for the Study of Democratic Citiz
 
 My research is funded by the Canadian Social Science and Humanities Research Council, from whom I hold a Joseph-Armand Bombardier Scholarship. I am thankful for SSRHC, the CSDC, the DDP, and McGill -- I am fortunate to have such an amazing job.
 
-I grew up on the prairies in Winnipeg, Manitoba and miss the urban forest and magical prairie sky. In my spare time you can find me cycling, enjoying a game of spikeball in one of Montreal's many beautiful parks, or fighting the lords of the underworld as Ben the Gnomish Bard.
+I grew up on the prairies in Winnipeg, Manitoba and miss the urban forest and magical prairie sky. In my spare time you can find me cycling, enjoying a game of spikeball in one of Montreal's many beautiful parks, or fighting the lords of the underworld as Tarkin the Paladin.
