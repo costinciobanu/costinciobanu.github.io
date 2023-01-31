@@ -12,3 +12,5 @@ Welcome to my professional website! I am a Postdoctoral Researcher at Royal Holl
 My work lies at the intersection of political communication, political and voting behavior, and international political economy. My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. Using observational and experimental methodologies, I explore the electoral consequences of economic and political events, particularly in the European context; I mainly focus on electoral campaigns and the role of information and media in shaping voters’ attitudes and behaviors. My passion for politics pre-dates my academic career, as I have been a political communications consultant and analyst in Central and Eastern Europe for more than 10 years. 
 
 My work was published or is forthcoming at <em> The Journal of Politics</em>  and <em> European Journal of Political Research</em>.
+
+If you want to get in touch, please contact me at costin.ciobanu [at] rhul.ac.uk or costin.ciobanu [at] gmail.com.

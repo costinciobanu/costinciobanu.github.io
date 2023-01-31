@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Contact me at: costin.ciobanu [at] rhul.ac.uk
+For the CV, please contact me at: costin.ciobanu [at] rhul.ac.uk
