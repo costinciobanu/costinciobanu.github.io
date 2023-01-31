@@ -7,7 +7,7 @@ author_profile: true
 
 <b>Refereed Publications</b>
 
-* [Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177), <em>The Journal of Politics</em> (published version also available [<b>here</b>](https://www.dropbox.com/s/f9fobl6ehr5ua9s/Paper_JOP.pdf?dl=0))
+* [Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177) (with Aengus Bridgman, Aaron Erlich, Danielle Bohonos, and Christopher Ross), <em>The Journal of Politics</em> (published version also available [<b>here</b>](https://www.dropbox.com/s/f9fobl6ehr5ua9s/Paper_JOP.pdf?dl=0))
 * The electoral risks of austerity,  <em>European Journal of Political Research</em> (accepted version available [<b>here</b>](https://www.dropbox.com/s/pu8rum0cgivukib/Ciobanu%20-%20Austerity.pdf?dl=0))
 
 
