@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+ align="justify"
 ---
 
 Welcome to my academic website! I am a Postdoctoral Researcher at Royal Holloway (University of London), within the ERC-funded "New parties in the news" project. In 2022, I obtained a Ph.D. in Political Science from McGill University, with a thesis on the political and electoral consequences of economic shocks.
