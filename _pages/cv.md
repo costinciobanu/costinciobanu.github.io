@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Contact me at: costin.ciobanu [at] mail.mcgill.ca
+Contact me at: costin.ciobanu [at] rhul.ac.uk

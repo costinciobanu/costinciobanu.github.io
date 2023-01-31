@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my professional website! I am a PhD Candidate in Political Science at McGill University. I study voting behavior, with a particular interest on campaign effects and on how different types of economic shocks impact electoral outcomes. My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. Methodologically, I employ survey and administrative data, with an additional interest in causal inference. My work is forthcoming at <em> The Journal of Politics</em>.
+Welcome to my professional website! I am a Postdoctoral Researcher at Royal Holloway (University of London), within the ERC-funded "New parties in the news" project. In 2022, I obtained a Ph.D. in Political Science at McGill University, with a thesis on the political and electoral consequences of economic shocks.
 
-I am currently a research fellow at the [Center for the Study of Democratic Citizenship](https://www.mcgill.ca/csdc-cecd/) which is a multi-university research center that seeks to better understand the relationship between citizens and political processes.
+My work lies at the intersection of political communication, political and voting behavior, and international political economy. My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. Using observational and experimental methodologies, I explore the electoral consequences of economic and political events, particularly in the European context; I mainly focus on electoral campaigns and the role of information and media in shaping voters’ attitudes and behaviors. My passion for politics pre-dates my academic career, as I have been a political communications consultant and analyst in Central and Eastern Europe for more than 10 years. 
 
-My research is funded by the Canadian Social Science and Humanities Research Council, from whom I hold a Vanier Canada Graduate Scholarship. I am thankful for SSRHC, the CSDC, and McGill.
+My work was published or is forthcoming at <em> The Journal of Politics</em>  and <em> European Journal of Political Research</em>.
