@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my professional website! I am a Postdoctoral Researcher at Royal Holloway (University of London), within the ERC-funded "New parties in the news" project. In 2022, I obtained a Ph.D. in Political Science at McGill University, with a thesis on the political and electoral consequences of economic shocks.
+Welcome to my academic website! I am a Postdoctoral Researcher at Royal Holloway (University of London), within the ERC-funded "New parties in the news" project. In 2022, I obtained a Ph.D. in Political Science from McGill University, with a thesis on the political and electoral consequences of economic shocks.
 
-My work lies at the intersection of political communication, political and voting behavior, and international political economy. My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. Using observational and experimental methodologies, I explore the electoral consequences of economic and political events, particularly in the European context; I mainly focus on electoral campaigns and the role of information and media in shaping voters’ attitudes and behaviors. My passion for politics pre-dates my academic career, as I have been a political communications consultant and analyst in Central and Eastern Europe for more than 10 years. 
+My work lies at the intersection of political and voting behavior, political communication, and international political economy. My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. Using observational and experimental methodologies, I explore the electoral consequences of economic and political events; I mainly focus on electoral campaigns and the role of information and media in shaping voters’ attitudes and behavior. My passion for politics pre-dates my academic career, as I have been a political communications consultant and analyst in Central and Eastern Europe for more than 10 years. 
 
 My work was published or is forthcoming at <em> The Journal of Politics</em>  and <em> European Journal of Political Research</em>.
 
