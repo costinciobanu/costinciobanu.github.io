@@ -14,4 +14,3 @@ redirect_from:
 <p align="justify">My work was published or is forthcoming at <em> The Journal of Politics</em>  and <em> European Journal of Political Research</em>.</p>
 
 <p align="justify">If you want to get in touch, please contact me at costin.ciobanu [at] rhul.ac.uk or costin.ciobanu [at] gmail.com.</p>
-
