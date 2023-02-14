@@ -15,7 +15,7 @@ author_profile: true
 
 * Offshoring, Automation, and Support for Radical Political Action (with Leonardo Baccini and Krzysztof Pelc) (submitted version available [<b>here</b>](https://www.dropbox.com/s/8pe5detnvy8pwak/Baccini%20Ciobanu%20Pelc%20-%20Automation%20Offshoring.pdf?dl=0))
 * Do debates matter more in two-round presidential elections? (submitted version available [<b>here</b>](https://www.dropbox.com/s/8obtp0nqgqdp6fd/Ciobanu%20-%20Debates.pdf?dl=0))
-* What can de-polarize the polarizers? Affective polarization for party activists before and after elections (with Dani Sandu) (draft version available [<b>here</b>](https://www.dropbox.com/s/o2ukgnwatc79457/Ciobanu%20and%20Sandu%20-%20Affective%20polarization.pdf?dl=0))
+* What can de-polarize the polarizers? Affective polarization for party activists before and after elections (with Dani Sandu) (submitted version available [<b>here</b>](https://www.dropbox.com/s/o2ukgnwatc79457/Ciobanu%20and%20Sandu%20-%20Affective%20polarization.pdf?dl=0))
 
 
 <b>Working papers</b>
