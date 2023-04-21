@@ -22,5 +22,5 @@ author_profile: true
 
 * Economic shocks, responsibility attribution, and political insulation (draft version available [<b>here</b>](https://www.dropbox.com/s/8wwrf40nsejprda/Ciobanu%20-%20Blame%20attribution.pdf?dl=0))
 * Does compensating the losers of globalization pay off electorally? The impact of the European Globalization Adjustment Fund on voting behavior (with Aengus Bridgman) (draft version available [<b>here</b>](https://www.dropbox.com/s/7cnnrirxggaaebk/Ciobanu%20and%20Bridgman%20-%20EGF.pdf?dl=0))
-* Do intra-party elections increase affective polarization? Evidence from the United Kingdom of (with Joost van Spanje and Marta Fatica) (draft version available [<b>here</b>](https://www.dropbox.com/s/4fq9jtjd34ctbs5/Ciobanu%20-%20Tory%20race.pdf?dl=0))
+* Do intra-party elections increase affective polarization? Evidence from the United Kingdom (with Joost van Spanje and Marta Fatica) (draft version available [<b>here</b>](https://www.dropbox.com/s/4fq9jtjd34ctbs5/Ciobanu%20-%20Tory%20race.pdf?dl=0))
 * The political consequences of the 2008 Lehman Brothers financial crash (with Joost van Spanje) (draft version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
