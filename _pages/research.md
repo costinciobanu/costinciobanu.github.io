@@ -12,7 +12,7 @@ author_profile: true
 
 
 <b>Under review</b>
-* What can de-polarize the polarizers? Affective polarization for party activists before and after elections (with Dani Sandu) (submitted version available [<b>here</b>](https://www.dropbox.com/s/o2ukgnwatc79457/Ciobanu%20and%20Sandu%20-%20Affective%20polarization.pdf?dl=0))
+* What can de-polarize the polarizers? Affective polarization for party activists before and after elections (with [Dani Sandu](https://danisandu.eu/)) (R & R, resubmitted version available [<b>here</b>](https://www.dropbox.com/s/o2ukgnwatc79457/Ciobanu%20and%20Sandu%20-%20Affective%20polarization.pdf?dl=0))
 * Offshoring, Automation, and Support for Radical Political Action (with Leonardo Baccini and Krzysztof Pelc) (submitted version available [<b>here</b>](https://www.dropbox.com/s/8pe5detnvy8pwak/Baccini%20Ciobanu%20Pelc%20-%20Automation%20Offshoring.pdf?dl=0))
 * Do intra-party elections increase affective polarization? Evidence from the United Kingdom (with Joost van Spanje and Marta Fatica) (submitted version available [<b>here</b>](https://www.dropbox.com/s/4fq9jtjd34ctbs5/Ciobanu%20-%20Tory%20race.pdf?dl=0))
 
