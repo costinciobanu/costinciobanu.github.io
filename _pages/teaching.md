@@ -10,8 +10,9 @@ Courses I have given at McGill include:
 * Causal inference with observational data (graduate course, Winter 2019, co-taught with Prof. Leonardo Baccini)
 * Math Bootcamp, Review of basic mathematical and statistical concepts for social sciences students (Summer 2018)
 
-Courses I have assisted with at McGill include:
+Courses I have assisted with at McGill and Aarhus University include:
 
+* Political Institutions (Spring 2024)
 * Law and Courts in Europe (Fall 2017)
 * R Bootcamp (Summer 2017)
 * Math Bootcamp (Summer 2017)
