@@ -9,7 +9,7 @@ author_profile: true
 
 * [Unveiling: The Electoral Consequences of an Exogenous Mid-Campaign Court Ruling](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177) (with Aengus Bridgman, Aaron Erlich, Danielle Bohonos, and Christopher Ross), <em>The Journal of Politics</em> (2021, published version also available [<b>here</b>](https://www.dropbox.com/s/f9fobl6ehr5ua9s/Paper_JOP.pdf?dl=0))
 * [The electoral risks of austerity](https://doi.org/10.1111/1475-6765.12604),  <em>European Journal of Political Research</em> (2023, accepted version available [<b>here</b>](https://www.dropbox.com/s/pu8rum0cgivukib/Ciobanu%20-%20Austerity.pdf?dl=0))
-* What can de-polarize the polarizers? Affective polarization for party activists before and after elections (with [Dani Sandu](https://danisandu.eu/)), <em>Comparative Political Studies</em> (2024, conditionally accepted version available [<b>here</b>](https://www.dropbox.com/s/o2ukgnwatc79457/Ciobanu%20and%20Sandu%20-%20Affective%20polarization.pdf?dl=0))
+* What can de-polarize the polarizers? Affective polarization for party activists before and after elections (with [Dani Sandu](https://danisandu.eu/)), <em>Comparative Political Studies</em> (2024, accepted version available [<b>here</b>](https://www.dropbox.com/s/o2ukgnwatc79457/Ciobanu%20and%20Sandu%20-%20Affective%20polarization.pdf?dl=0))
 
 <b>Under review</b>
 
