@@ -11,6 +11,6 @@ Welcome to my academic website! I am a Postdoctoral Researcher at [Aarhus Univer
 
 My work lies at the intersection of political and voting behavior, political communication, and international political economy. Using observational and experimental methodologies, I explore the electoral consequences of economic and political events; I mainly focus on electoral campaigns and the role of information and media in shaping voters’ attitudes and behavior. My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. My passion for politics pre-dates my academic career, as I have been a political communications consultant and analyst in Central and Eastern Europe for more than 10 years.
 
-My work was published or is forthcoming in [<em> The Journal of Politics</em>](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177), <em>Comparative Political Studies</em> and [<em> European Journal of Political Research</em>](https://doi.org/10.1111/1475-6765.12604).
+My work was published or is forthcoming in [<em> The Journal of Politics</em>](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177), [<em>Comparative Political Studies</em>](https://doi.org/10.1177/00104140241259453) and [<em> European Journal of Political Research</em>](https://doi.org/10.1111/1475-6765.12604).
 
 If you want to get in touch, please contact me at costin.ciobanu [at] ps.au.dk or costin.ciobanu [at] gmail.com.
