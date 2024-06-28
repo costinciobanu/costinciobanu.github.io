@@ -14,7 +14,6 @@ author_profile: true
 <b>Under review</b>
 
 * Offshoring, Automation, and Support for Radical Political Action (with Leonardo Baccini and Krzysztof Pelc) (submitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/039w1tx6e73965e4bqjjl/BCP-Offshoring-Automation-March-2024.pdf?rlkey=k6gjjy3hqbfyumr6geoyovzff&dl=0))
-* Do intra-party elections increase affective polarization? Evidence from the United Kingdom (with Joost van Spanje and Marta Fatica) (submitted version available [<b>here</b>](https://www.dropbox.com/s/4fq9jtjd34ctbs5/Ciobanu%20-%20Tory%20race.pdf?dl=0))
 
 <b>Working papers</b>
 
