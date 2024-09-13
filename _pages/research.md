@@ -13,11 +13,12 @@ author_profile: true
 
 <b>Under review</b>
 
-* Offshoring, Automation, and Support for Radical Political Action (with Leonardo Baccini and Krzysztof Pelc) (submitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/039w1tx6e73965e4bqjjl/BCP-Offshoring-Automation-March-2024.pdf?rlkey=k6gjjy3hqbfyumr6geoyovzff&dl=0))
+* The political consequences of the 2008 Lehman Brothers financial crash (with Joost van Spanje) (submitted version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
+<!-- * Offshoring, Automation, and Support for Radical Political Action (with Leonardo Baccini and Krzysztof Pelc) (submitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/039w1tx6e73965e4bqjjl/BCP-Offshoring-Automation-March-2024.pdf?rlkey=k6gjjy3hqbfyumr6geoyovzff&dl=0)) -->
 
 <b>Working papers</b>
 
 * Economic shocks, responsibility attribution, and political insulation (draft version available [<b>here</b>](https://www.dropbox.com/s/8wwrf40nsejprda/Ciobanu%20-%20Blame%20attribution.pdf?dl=0))
 * Does compensating the losers of globalization pay off electorally? The impact of the European Globalization Adjustment Fund on voting behavior (with Aengus Bridgman) (draft version available [<b>here</b>](https://www.dropbox.com/s/7cnnrirxggaaebk/Ciobanu%20and%20Bridgman%20-%20EGF.pdf?dl=0))
 * Do debates matter more in two-round presidential elections? (draft version available [<b>here</b>](https://www.dropbox.com/s/8obtp0nqgqdp6fd/Ciobanu%20-%20Debates.pdf?dl=0))
-* The political consequences of the 2008 Lehman Brothers financial crash (with Joost van Spanje) (draft version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
+
