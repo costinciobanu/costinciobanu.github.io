@@ -14,7 +14,7 @@ author_profile: true
 <b>Under review</b>
 
 * The political consequences of the 2008 Lehman Brothers financial crash (with Joost van Spanje) (submitted version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
-* Privileged interests on the party agenda: Bitcoin-related issues in two countries since 2020 (with Joost van Spanje and Greta Arancia Sanna) (submitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/up7l3x2z9maeufpggwu8a/Bitcoin_paper.pdf?rlkey=5rx3tgdbia94uia562cfbsh2d&st=akfqsx7r&dl=0))
+* Privileged interests on the party agenda: Bitcoin-related issues in two countries since 2020 (with Joost van Spanje and Greta Arancia Sanna) (resubmitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/up7l3x2z9maeufpggwu8a/Bitcoin_paper.pdf?rlkey=5rx3tgdbia94uia562cfbsh2d&st=akfqsx7r&dl=0))
 <!-- * Offshoring, Automation, and Support for Radical Political Action (with Leonardo Baccini and Krzysztof Pelc) (submitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/039w1tx6e73965e4bqjjl/BCP-Offshoring-Automation-March-2024.pdf?rlkey=k6gjjy3hqbfyumr6geoyovzff&dl=0)) -->
 
 <b>Working papers</b>
