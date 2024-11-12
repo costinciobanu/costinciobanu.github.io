@@ -20,6 +20,7 @@ author_profile: true
 <b>Working papers</b>
 
 * Economic shocks, responsibility attribution, and political insulation (draft version available [<b>here</b>](https://www.dropbox.com/s/8wwrf40nsejprda/Ciobanu%20-%20Blame%20attribution.pdf?dl=0))
+* The political impact of job destruction announcements: Evidence from the United Kingdom (with Riccardo di Leo) (draft version available [<b>here</b>](https://www.dropbox.com/scl/fi/prlq11pt0ovi08b6forj3/Ciobanu-and-Di-Leo-UK-shocks-paper.pdf?rlkey=efqvmahi73vybuu3uhp1xy9wo&st=v1lzjpr0&dl=0))
 * Does compensating the losers of globalization pay off electorally? The impact of the European Globalization Adjustment Fund on voting behavior (with Aengus Bridgman) (draft version available [<b>here</b>](https://www.dropbox.com/s/7cnnrirxggaaebk/Ciobanu%20and%20Bridgman%20-%20EGF.pdf?dl=0))
 * Do debates matter more in two-round presidential elections? (draft version available [<b>here</b>](https://www.dropbox.com/s/8obtp0nqgqdp6fd/Ciobanu%20-%20Debates.pdf?dl=0))
 
