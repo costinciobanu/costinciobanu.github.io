@@ -14,7 +14,7 @@ author_profile: true
 
 <b>Under review</b>
 
-* The political consequences of the 2008 Lehman Brothers financial crash (with Joost van Spanje) (Revise and Resubmit, submitted version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
+* The political consequences of the 2008 Lehman Brothers financial crash (with Joost van Spanje) (Revise and Resubmit, resubmitted version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
 * The Source of Economic Shocks Matters for their Political Outcomes (with Leonardo Baccini and Krzysztof Pelc) (Revise and Resubmit, submitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/bhu97vci45ila7xcfzwg9/BCP_April2025.pdf?rlkey=gwts35npzp8a4ubu5fucphdvk&st=qde1fleg&dl=0))
 
 <b>Working papers</b>
