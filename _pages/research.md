@@ -15,7 +15,7 @@ author_profile: true
 <b>Under review</b>
 
 * How Voters Respond to Economic Shocks from Abroad (with Joost van Spanje) (Conditionally Accepted - <em>Political Science Research and Methods</em>, conditionally accepted version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
-* The Source of Economic Shocks Matters for their Political Outcomes (with Leonardo Baccini and Krzysztof Pelc) (Accepted - <em>Research &amp; Politics</em>, accepted version available [<b>here</b>](https://www.dropbox.com/scl/fi/9ocmbjjiwb2dwk3jdje0x/BCP_August2025.pdf?rlkey=xmxw5m85jlhsh5tan0khzpcac&st=v6aqjca7&dl=0))
+* The Source of Economic Shocks Matters for their Political Outcomes (with Leonardo Baccini and Krzysztof Pelc) (Accepted - <em>Research &amp; Politics</em>, accepted version available [<b>here</b>](https://www.dropbox.com/scl/fi/nbvjwpej33a5wfa644tgj/BCP_September2025.pdf?rlkey=m9fn27esxq0dfwo9vm2sbcmcn&st=v0udq7qj&dl=0))
 
 <b>Working papers</b>
 
