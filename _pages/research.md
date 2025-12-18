@@ -12,7 +12,7 @@ author_profile: true
 * [What can de-polarize the polarizers? Affective polarization for party activists before and after elections](https://doi.org/10.1177/00104140241259453) (with [Dani Sandu](https://danisandu.eu/)), <em>Comparative Political Studies</em> (2024, accepted version available [<b>here</b>](https://www.dropbox.com/s/o2ukgnwatc79457/Ciobanu%20and%20Sandu%20-%20Affective%20polarization.pdf?dl=0))
 * [Privileged interests on the party agenda: Bitcoin-related issues in two countries since 2020](https://doi.org/10.1057/s41269-024-00380-4) (with Joost van Spanje and Greta Arancia Sanna), <em>Acta Politica</em> (2024, accepted version available [<b>here</b>](https://www.dropbox.com/scl/fi/up7l3x2z9maeufpggwu8a/Bitcoin_paper.pdf?rlkey=5rx3tgdbia94uia562cfbsh2d&st=akfqsx7r&dl=0))
 * [The source of economic shocks matters for their political outcomes](https://doi.org/10.1177/20531680251379914) (with Leonardo Baccini and Krzysztof Pelc), <em>Research &amp; Politics</em> (2025, accepted version available [<b>here</b>](https://www.dropbox.com/scl/fi/nbvjwpej33a5wfa644tgj/BCP_September2025.pdf?rlkey=m9fn27esxq0dfwo9vm2sbcmcn&st=v0udq7qj&dl=0))
-* How Voters Respond to Economic Shocks from Abroad (with Joost van Spanje) (Accepted - <em>Political Science Research and Methods</em>, accepted version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
+* [How Voters Respond to Economic Shocks from Abroad](https://doi.org/10.1017/psrm.2025.10064) (with Joost van Spanje), <em>Political Science Research and Methods</em>  (2025, accepted version available [<b>here</b>](https://www.dropbox.com/s/2sxxkjdd9ki3val/Ciobanu%20and%20van%20Spanje%20-%20Lehman.pdf?dl=0))
 
 <b>Working papers</b>
 
