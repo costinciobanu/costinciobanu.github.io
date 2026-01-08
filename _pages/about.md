@@ -11,7 +11,7 @@ Welcome to my academic website! I am a Postdoctoral Researcher at [Aarhus Univer
 
 My work lies at the intersection of political and voting behavior, comparative politics, and international political economy. Using observational and experimental methodologies, I study how economic and political shocks reshape public attitudes and voting—especially in periods of high uncertainty and disruption. I examine how voters, party activists, and elites respond in the short and long run, and I model elections themselves as informational and engagement shocks that can reconfigure conflict and seed lasting realignments.
 
-My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. Before academia, I spent over a decade as a political communication consultant in Central and Eastern Europe, experience that informs both my research and public engagement. 
+My main regional focus is on Central and Eastern Europe, but my work looks at these phenomena in Western European and North American contexts as well. Before academia, I spent over a decade as a political communication advisor and consultant in Central and Eastern Europe, experience that informs both my research and public engagement. 
 
 My work was published in [<em> The Journal of Politics</em>](https://www.journals.uchicago.edu/doi/pdf/10.1086/711177), [<em>Comparative Political Studies</em>](https://doi.org/10.1177/00104140241259453), [<em> European Journal of Political Research</em>](https://doi.org/10.1111/1475-6765.12604), and [<em> Political Science Research and Methods</em>](https://doi.org/10.1017/psrm.2025.10064).
 
