@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Courses I have given at McGill include:
+Courses I have given at Aarhus and McGill include:
 
+* Political Institutions (Spring 2025; Spring 2026)
 * Causal inference with observational data (graduate course, Winter 2019, co-taught with Prof. Leonardo Baccini)
 * Math Bootcamp, Review of basic mathematical and statistical concepts for social sciences students (Summer 2018)
 
