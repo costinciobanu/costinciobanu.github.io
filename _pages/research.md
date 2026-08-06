@@ -17,7 +17,7 @@ author_profile: true
 
 <b>Working papers</b>
 
-* How Effective Are Parties at Mobilizing Supporters? Evidence from Six Large-Scale Experiments with 400,000 Party Supporters (with Krzysztof Krakowski and Dani Sandu) (draft version available [<b>here</b>](https://www.dropbox.com/scl/fi/yqhxfox6oj1jw5ffaj21j/CKS-Paper-Mobilization.pdf?rlkey=pxhvri46vmkmerm17y3hexiuv&st=sag856no&dl=0))
+* How Effective Are Parties at Mobilizing Supporters? Evidence from Six Large-Scale Experiments with 400,000 Party Supporters (with Krzysztof Krakowski and Dani Sandu) (under review, submitted version available [<b>here</b>](https://www.dropbox.com/scl/fi/yqhxfox6oj1jw5ffaj21j/CKS-Paper-Mobilization.pdf?rlkey=pxhvri46vmkmerm17y3hexiuv&st=sag856no&dl=0))
 * Economic shocks, responsibility attribution, and political insulation (draft version available [<b>here</b>](https://www.dropbox.com/s/8wwrf40nsejprda/Ciobanu%20-%20Blame%20attribution.pdf?dl=0))
 * Does compensating the losers of globalization pay off electorally? The impact of the European Globalization Adjustment Fund on voting behavior (with Aengus Bridgman) (draft version available [<b>here</b>](https://www.dropbox.com/s/7cnnrirxggaaebk/Ciobanu%20and%20Bridgman%20-%20EGF.pdf?dl=0))
 * Do debates matter more in two-round presidential elections? (draft version available [<b>here</b>](https://www.dropbox.com/s/8obtp0nqgqdp6fd/Ciobanu%20-%20Debates.pdf?dl=0))
