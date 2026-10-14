@@ -13,7 +13,7 @@ Courses I have given at Aarhus and McGill include:
 
 Courses I have assisted with at McGill and Aarhus University include:
 
-* Political Institutions (Spring 2024)
+* Political Institutions (Spring 2024; [<b>Presentation</b>](https://www.dropbox.com/scl/fi/sgcbtv08ml0jc6r1dgjid/EUI_Research.pdf?rlkey=tr29gvdwwllqzrvand9sppvpn&st=3masb7zw&dl=0))
 * Law and Courts in Europe (Fall 2017)
 * R Bootcamp (Summer 2017)
 * Math Bootcamp (Summer 2017)
